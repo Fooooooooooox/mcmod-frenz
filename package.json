@@ -1,0 +1,19 @@
+{
+  "name": "mcmod-frenz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "got": "^12.6.0",
+    "minecraft-data": "^3.33.0",
+    "mineflayer": "^4.8.1",
+    "openai": "^3.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
